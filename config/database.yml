@@ -11,7 +11,7 @@ default: &default
 
 development:
   <<: *default
-  database: todo_dev
+  database: d4o457tu5odslu
   host: ec2-174-129-26-115.compute-1.amazonaws.com
   username: sacdarmpgaqedb
   password: jF7ZmDHk75QT5LIzej5jDTujrw
