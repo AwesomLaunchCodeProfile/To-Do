@@ -14,6 +14,7 @@ development:
   database: todo_dev
   host: ec2-174-129-26-115.compute-1.amazonaws.com
   username: sacdarmpgaqedb
+  password: jF7ZmDHk75QT5LIzej5jDTujrw
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
