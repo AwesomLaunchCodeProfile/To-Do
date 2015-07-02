@@ -11,7 +11,9 @@ default: &default
 
 development:
   <<: *default
-  database: todo_dev 
+  database: todo_dev
+  host: ec2-174-129-26-115.compute-1.amazonaws.com
+  username: sacdarmpgaqedb
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
